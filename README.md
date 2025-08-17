@@ -28,7 +28,7 @@
 
 * **Visual Outputs:**
 
-  <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/868e1a7b-b9ab-4987-b91e-3c19cc3dfcbc" />
+  <img width="709" height="682" alt="image" src="https://github.com/user-attachments/assets/40bf57a2-c56f-41d1-933b-1f41432870c8" />
 
 
 ---
